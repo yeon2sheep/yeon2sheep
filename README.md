@@ -1,4 +1,4 @@
-## Hi, I'm Yeon 👋
+
 
 AI Software Engineering Student at Dongguk University
 
